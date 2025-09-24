@@ -1,1 +1,2 @@
-What stood out to me was the focus on immutability and versioning — once data is tracked, you can always trace it back. For me, that’s huge because it removes the “which file is the right one” problem and gives everyone the same source of truth.
+What stood out to me was the focus on immutability and versioning — once data is tracked, you can always trace it back. For me, that’s huge because it removes the “which
+file is the right one” problem and gives everyone the same source of truth.
